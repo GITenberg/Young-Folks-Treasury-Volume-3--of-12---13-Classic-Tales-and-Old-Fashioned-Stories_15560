@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1421
     wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15560#Young-Folks-Treasury-Volume-3--of-12---13-Classic-Tales-and-Old-Fashioned-Stories
 gutenberg_bookshelf: Children's Anthologies
 gutenberg_issued: '2005-04-06'
 gutenberg_type: Text
